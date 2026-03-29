@@ -9,9 +9,6 @@ Right now I am focused on [SubGen](https://github.com/dvuCodes/sub-generator): a
 | Project | What it is | Stack |
 | --- | --- | --- |
 | [SubGen](https://github.com/dvuCodes/sub-generator) | Local-first desktop subtitle generation with a mixed-runtime pipeline for transcription, translation, and diarization. | Tauri, React, TypeScript, Go, Python |
-| [Cherry](https://github.com/dvuCodes/Cherry) | An open-source voice synthesis studio built around clean workflows and practical creator tooling. | Web app, OSS voice tooling |
-| [project-planner](https://github.com/dvuCodes/project-planner) | A planning tool for turning rough ideas into something structured enough to execute. | Product planning, web tooling |
-| [dinodex](https://github.com/dvuCodes/dinodex) | A playful interface project with a stronger point of view on presentation and interaction. | Frontend, UI craft |
 
 ## What I Like Building
 
